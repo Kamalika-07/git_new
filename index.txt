@@ -1,2 +1,3 @@
 .......hii!welcome to github......
 This is the modified line 
+A new line for checking branch and conflict
